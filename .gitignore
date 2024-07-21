@@ -37,7 +37,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 
-
 # cypress
 /cypress/videos
 /cypress/screenshots
@@ -47,4 +46,3 @@ yarn-error.log*
 
 # current stage
 /code-stages/meta.json
-/src
